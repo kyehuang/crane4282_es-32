@@ -5,7 +5,7 @@
  * Pin : use I2C , SDA 21 SCL 22
  *
  */
-const float ARM_MOVEMENT_STEP = 0.3;
+const float ARM_MOVEMENT_STEP = 0.1;
 
 class ArmManager {
 private:
